@@ -16,9 +16,6 @@ The project repository contains the following files:
 
 2. `iris.csv`: This CSV file contains the dataset used for training and testing the model. It is in a tabular format, with each row representing a sample and each column representing a feature or the target variable.
 
-3. `requirements.txt`: This file lists all the Python libraries and their versions required to run the code successfully. You can install these dependencies using `pip` or any other package manager.
-
-
 
 ## Usage
 
